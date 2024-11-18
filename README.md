@@ -1,2 +1,2 @@
-# -Implementaci-n-y-Recursos-Open-Source-
-Trabajo de tesis
+Implementacion y recursos open source
+Trabajo de tesis 2024
